@@ -6,7 +6,7 @@ body {
     background-color: rgba(168, 167, 167, 0.6);
   }
   /*Create the card container*/
-  .birthdayCard {
+   .birthdayCard{
     position: relative;
     width: 250px;
     height:350px;
